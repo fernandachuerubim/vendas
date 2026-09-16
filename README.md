@@ -1,6 +1,6 @@
 # Projeto de Análise e Previsão de Vendas
 
-Aplicação em Python para análise de dados de vendas, visualização de indicadores e previsão de lucro de produtos. O projeto utiliza Streamlit para a interface web, pandas para processamento dos dados e scikit-learn para o modelo de machine learning.
+Aplicação em Python para análise de dados de vendas, visualização de indicadores e previsão de lucro de produtos. O projeto utiliza Streamlit para a interface web, pandas para processamento dos dados e scikit-learn para o modelo de machine learning. O link do projeto está disponível no Streamlit https://fc-vendas.streamlit.app/
 
 ## Funcionalidades
 
